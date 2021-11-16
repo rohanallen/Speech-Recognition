@@ -1,10 +1,11 @@
 # Speech-Recognition
 Speech Recognition programs in Python capable of recognizing speech from short files, large files and also from your microphone input and convert them into text.
 
-install pip3 install SpeechRecognition pydub
+pip3 install SpeechRecognition pydub
+To execute
 
 short speech
- python3 simple_speech_recognizer.py simple.wav
+python3 simple_speech_recognizer.py simple.wav
 
 long speech
  python3 speech_recognizer.py long_speech.wav
