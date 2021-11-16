@@ -5,12 +5,15 @@ pip3 install SpeechRecognition pydub
 To execute
 
 short speech
+
 python3 simple_speech_recognizer.py simple.wav
 
 long speech
+
  python3 speech_recognizer.py long_speech.wav
 
 microphone input from computer
+
 python3 live.py 10 (time in sec)
 
 Description:
